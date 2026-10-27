@@ -12,6 +12,6 @@ Choose **Check for Updates…** in Sandbar’s panel menu. Sandbar uses Sparkle 
 
 ## Early preview
 
-The controller currently targets the selected Oasis Mini and known firmware. Initial table connection and new-file delivery still need recipient setup verification. New-file delivery currently requires configured Ethernet/private Wi-Fi sharing and may require Mac approval and developer-tools Python. Installing Sandbar does not automatically configure that connection.
+The controller currently targets the selected Oasis Mini and known firmware. Initial table connection and new-file delivery still need recipient setup verification. New-file delivery currently requires configured Ethernet/private Wi-Fi sharing and may require Mac administrator approval. The helper runtime is bundled; developer-tools Python is not required on the recipient Mac. Installing Sandbar does not automatically configure that connection.
 
 This repository contains release downloads and the update feed. Project source, personal drawings and device state are not hosted here.
